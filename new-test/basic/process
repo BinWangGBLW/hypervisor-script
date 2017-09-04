@@ -1,0 +1,1 @@
+28309 qemu-system-x86_64 -enable-kvm -m 512 -smp 1 -boot order=dc -hda CentOS-7-x86_64-GenericCloud.qcow2
